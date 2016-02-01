@@ -1,0 +1,165 @@
+监控服务器于2015-12-05 12:52:19出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75006688</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 12时53分49秒
+监控服务器于2015-12-05 12:53:49出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75006717</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 12时55分02秒
+监控服务器于2015-12-05 12:55:02出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75006737</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 13:06:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13时06分53秒
+监控服务器于2015-12-05 13:06:53出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75007029</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 13:09:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:12:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:15:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:18:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:21:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:24:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:27:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 30, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 13, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:30:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 31, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 14, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:33:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 31, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 14, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13时34分26秒
+监控服务器于2015-12-05 13:34:26出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75007725</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 13:36:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 33, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 20, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:39:06
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 33, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 20, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13时41分49秒
+监控服务器于' + datetime + '出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75007882</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 13:42:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 33, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 20, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:45:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 33, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 20, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:48:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 33, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 20, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13:51:05
+Traceback (most recent call last):
+  File "/root/check_nagios/sendsms.py", line 33, in <module>
+    senddata()
+  File "/root/check_nagios/sendsms.py", line 20, in senddata
+    print(content,file=log)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2015-12-05 13时54分05秒
+监控服务器于2015-12-05 13:54:05出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75008505</TaskDetialID></Return></Root>"\r\n}'
+2015-12-05 14时06分05秒
+监控服务器于2015-12-05 14:06:05出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75008812</TaskDetialID></Return></Root>"\r\n}'
+2015-12-07 01时00分15秒
+监控服务器于2015-12-07 01:00:15出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75053008</TaskDetialID></Return></Root>"\r\n}'
+2015-12-07 09时03分05秒
+监控服务器于2015-12-07 09:03:05出现服务无法响应,请立即检查!
+b'{\r\n  "code" : 0,\r\n  "tip" : "\xe6\x93\x8d\xe4\xbd\x9c\xe6\x88\x90\xe5\x8a\x9f",\r\n  "data" : "<Root><Error><Code>0</Code><Message></Message></Error><Return><TaskDetialID>75055163</TaskDetialID></Return></Root>"\r\n}'
+2015-12-08 15时36分15秒
+2015-12-08 15时39分15秒
+监控服务器于2015-12-08 15:39:37出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+监控服务器于2015-12-08 15:39:37出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+2015-12-08 15时48分15秒
+监控服务器于2015-12-08 15:48:16出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+2015-12-08 15时51分15秒
+监控服务器于2015-12-08 15:51:15出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+2015-12-08 18时00分15秒
+监控服务器于2015-12-08 18:00:15出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+2015-12-08 18时03分15秒
+监控服务器于2015-12-08 18:03:15出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+2015-12-08 18时06分15秒
+监控服务器于2015-12-08 18:06:15出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
+2015-12-08 18时09分15秒
+监控服务器于2015-12-08 18:09:16出现服务无法响应,请立即检查!
+b'{\r\n  "code" : -1,\r\n  "tip" : "\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab",\r\n  "data" : "<Root><Error><Code>-1</Code><Message>\xe8\x8e\xb7\xe5\x8f\x96\xe5\x8f\x82\xe6\x95\xb0\xe9\x94\x99\xe8\xaf\xaf\xef\xbc\x9a\xe9\x9d\x9e\xe6\xb3\x95\xe8\xb0\x83\xe7\x94\xa8\xe4\xbb\xbb\xe5\x8a\xa1\xe7\xb1\xbb\xe5\x88\xab</Message></Error></Root>"\r\n}'
