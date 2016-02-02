@@ -13,10 +13,12 @@ if sys.getdefaultencoding() != default_encoding:
 
 def senddata():
     send_url = 'http://172.18.8.169:18080/api/message/send'
-    telnum = '18098814335' 
+#    telnum = '18098814335' 
+    telnum = sys.argv[1]
     datetime = time.strftime("%Y-%m-%d %X",time.localtime( time.time())) 
     date = time.strftime("%Y-%m-%d",time.localtime( time.time())) 
-    content = '监控服务器于' + datetime + '出现服务无法响应,请立即检查!'
+#    content = '监控服务器于' + datetime + '出现服务无法响应,请立即检查!'
+    content = datetime + sys.argv[2] 
     log = open("monitor_"+date+".log","a")
     print(content,file=log)
     postDict = {
